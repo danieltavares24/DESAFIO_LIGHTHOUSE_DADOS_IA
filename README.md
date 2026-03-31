@@ -1,4 +1,4 @@
-**Desafio Lighthouse — Dados & AI**
+# **Desafio Lighthouse — Dados & AI**
 # **Candidato:** Daniel Tavares de França
 
 **Visão Geral e Objetivos**

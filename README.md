@@ -37,5 +37,5 @@ A capacidade de integrar fontes de dados distintas (como CRM e Planilhas de Cust
 ---
 
 ## 👨‍💻 Autor
-**Daniel Tavares de França** 
+**Daniel Tavares de França**  
 *Engenheiro de Machine Learning em formação | Especialista em IA Industrial*
